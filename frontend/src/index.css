@@ -1,0 +1,79 @@
+body {
+
+    margin: 0;
+    padding: 0;
+    background: #eef2f7;
+    font-family: Arial;
+
+}
+
+.container {
+
+    width: 90%;
+    margin: auto;
+    padding: 20px;
+
+}
+
+h1 {
+
+    text-align: center;
+    margin-bottom: 30px;
+
+}
+
+.box {
+
+    background: white;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 12px;
+    box-shadow:
+    0 0 10px rgba(0,0,0,0.1);
+
+}
+
+input,
+textarea {
+
+    width: 100%;
+    padding: 12px;
+    margin-bottom: 10px;
+    border-radius: 8px;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+
+}
+
+button {
+
+    background: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 8px;
+    cursor: pointer;
+
+}
+
+button:hover {
+
+    background: #0056b3;
+
+}
+
+.candidate-card {
+
+    border: 1px solid #ddd;
+    padding: 15px;
+    border-radius: 10px;
+    margin-top: 10px;
+    background: #fafafa;
+
+}
+
+pre {
+
+    white-space: pre-wrap;
+
+}
